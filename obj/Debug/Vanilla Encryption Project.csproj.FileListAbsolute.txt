@@ -1,0 +1,10 @@
+C:\Users\Gerhard\Desktop\Vanilla Encryption Project\Vanilla Encryption Project\bin\Debug\Vanilla Encryption Project.exe.config
+C:\Users\Gerhard\Desktop\Vanilla Encryption Project\Vanilla Encryption Project\bin\Debug\Vanilla Encryption Project.exe
+C:\Users\Gerhard\Desktop\Vanilla Encryption Project\Vanilla Encryption Project\bin\Debug\Vanilla Encryption Project.pdb
+C:\Users\Gerhard\Desktop\Vanilla Encryption Project\Vanilla Encryption Project\obj\Debug\Vanilla Encryption Project.csprojAssemblyReference.cache
+C:\Users\Gerhard\Desktop\Vanilla Encryption Project\Vanilla Encryption Project\obj\Debug\Vanilla_Encryption_Project.Form1.resources
+C:\Users\Gerhard\Desktop\Vanilla Encryption Project\Vanilla Encryption Project\obj\Debug\Vanilla_Encryption_Project.Properties.Resources.resources
+C:\Users\Gerhard\Desktop\Vanilla Encryption Project\Vanilla Encryption Project\obj\Debug\Vanilla Encryption Project.csproj.GenerateResource.cache
+C:\Users\Gerhard\Desktop\Vanilla Encryption Project\Vanilla Encryption Project\obj\Debug\Vanilla Encryption Project.csproj.CoreCompileInputs.cache
+C:\Users\Gerhard\Desktop\Vanilla Encryption Project\Vanilla Encryption Project\obj\Debug\Vanilla Encryption Project.exe
+C:\Users\Gerhard\Desktop\Vanilla Encryption Project\Vanilla Encryption Project\obj\Debug\Vanilla Encryption Project.pdb
